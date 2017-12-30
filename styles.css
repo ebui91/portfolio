@@ -84,18 +84,19 @@ body{
   justify-content: space-around;
   align-items: center;
   background: #222;
-  color: #F2F2F2;
+  color: #E3E3E3;
 }
 
 .about-section p{
   font-family: 'Roboto', sans-serif;
+  color: #E3E3E3;
 }
 
 .about-header{
   font-size: 48px;
   font-family: Montserrat, sans-serif;
   text-align: center;
-  color: #F2F2F2;
+  color: #E3E3E3;
   margin-bottom: 5%;
 }
 
@@ -133,6 +134,7 @@ body{
   width: 250px;
   border-radius: 50%;
 }
+
 
 /* SKILLS SECTION STYLING */
 .skills-section{
@@ -378,6 +380,7 @@ body{
   transition: all ease 0.7s;
   color: #11FFCD;
 }
+
 
 /* SIDENAV STYLING */
 .sidenav{
